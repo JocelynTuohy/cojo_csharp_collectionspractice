@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/bin/Debug/netcoreapp1.1/democode.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/bin/Debug/netcoreapp1.1/democode.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/bin/Debug/netcoreapp1.1/democode.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/bin/Debug/netcoreapp1.1/democode.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/bin/Debug/netcoreapp1.1/democode.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/obj/Debug/netcoreapp1.1/democode.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/obj/Debug/netcoreapp1.1/democode.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/democode/obj/Debug/netcoreapp1.1/democode.pdb
